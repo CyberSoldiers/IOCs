@@ -6622,10 +6622,27 @@
 		"minValue": 0,
 		"maxValue": 100
 	},
-	"legendItems": [],
+	"legendItems": [
+		{
+			"label": "njRAT",
+			"color": "#ffe766ff"
+		},
+		{
+			"label": "Orcus RAT",
+			"color": "#fd8d3c"
+		},
+		{
+			"label": "nanocore RAT",
+			"color": "#a1d99b"
+		},
+		{
+			"label": "Common Techniques",
+			"color": "#969696"
+		}
+	],
 	"metadata": [],
 	"showTacticRowBackground": false,
-	"tacticRowBackground": "#dddddd",
+	"tacticRowBackground": "#f0983e",
 	"selectTechniquesAcrossTactics": true,
 	"selectSubtechniquesWithParent": false
 }
